@@ -1,0 +1,68 @@
+2025-10-11 21:41:01 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-11 21:41:01 INFO  TC_001_AccountRegistrationTest:20 - Clicking on My Account
+2025-10-11 21:41:02 INFO  TC_001_AccountRegistrationTest:22 - Clicking on Register
+2025-10-11 21:41:02 INFO  TC_001_AccountRegistrationTest:25 - Entering the user's details
+2025-10-11 21:41:03 INFO  TC_001_AccountRegistrationTest:37 - Validating expected message
+2025-10-11 21:41:03 INFO  TC_001_AccountRegistrationTest:43 - Test Passed
+2025-10-11 21:41:03 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-11 21:42:40 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-11 21:42:40 INFO  TC_001_AccountRegistrationTest:20 - Clicking on My Account
+2025-10-11 21:42:41 INFO  TC_001_AccountRegistrationTest:22 - Clicking on Register
+2025-10-11 21:42:41 INFO  TC_001_AccountRegistrationTest:25 - Entering the user's details
+2025-10-11 21:42:42 INFO  TC_001_AccountRegistrationTest:37 - Validating expected message
+2025-10-11 21:42:42 INFO  TC_001_AccountRegistrationTest:43 - Test Passed
+2025-10-11 21:42:42 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-11 21:45:11 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-10-11 21:45:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-11 21:45:14 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-11 21:45:14 INFO  TC_001_AccountRegistrationTest:20 - Clicking on My Account
+2025-10-11 21:45:15 INFO  TC_001_AccountRegistrationTest:22 - Clicking on Register
+2025-10-11 21:45:15 INFO  TC_001_AccountRegistrationTest:25 - Entering the user's details
+2025-10-11 21:45:16 INFO  TC_001_AccountRegistrationTest:37 - Validating expected message
+2025-10-11 21:45:16 INFO  TC_001_AccountRegistrationTest:43 - Test Passed
+2025-10-11 21:45:16 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-11 21:48:53 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-10-11 21:48:53 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-11 21:49:37 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-10-11 21:49:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-11 21:53:18 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-10-11 21:53:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-11 21:53:21 INFO  TC_002_LoginTest:16 - Starting TC2
+2025-10-11 21:53:21 INFO  TC_002_LoginTest:21 - Clicking my account
+2025-10-11 21:53:22 INFO  TC_002_LoginTest:24 - Clicking on login
+2025-10-11 21:53:22 INFO  TC_002_LoginTest:27 - Entering user credentials
+2025-10-11 21:55:54 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-10-11 21:55:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-11 21:55:57 INFO  TC_002_LoginTest:16 - Starting TC2
+2025-10-11 21:55:57 INFO  TC_002_LoginTest:21 - Clicking my account
+2025-10-11 21:55:57 INFO  TC_002_LoginTest:24 - Clicking on login
+2025-10-11 21:55:57 INFO  TC_002_LoginTest:27 - Entering user credentials
+2025-10-11 21:55:58 INFO  TC_002_LoginTest:45 - **** Finished TC_002_LoginTest  ****
+2025-10-11 21:59:44 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-10-11 21:59:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-11 21:59:47 INFO  TC_002_LoginTest:16 - Starting TC2
+2025-10-11 21:59:47 INFO  TC_002_LoginTest:21 - Clicking my account
+2025-10-11 21:59:47 INFO  TC_002_LoginTest:24 - Clicking on login
+2025-10-11 21:59:47 INFO  TC_002_LoginTest:27 - Entering user credentials
+2025-10-11 21:59:48 INFO  TC_002_LoginTest:45 - **** Finished TC_002_LoginTest  ****
+2025-10-11 22:00:36 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-10-11 22:00:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-11 22:00:39 INFO  TC_002_LoginTest:16 - Starting TC2
+2025-10-11 22:00:39 INFO  TC_002_LoginTest:21 - Clicking my account
+2025-10-11 22:00:39 INFO  TC_002_LoginTest:24 - Clicking on login
+2025-10-11 22:00:39 INFO  TC_002_LoginTest:27 - Entering user credentials
+2025-10-11 22:00:40 INFO  TC_002_LoginTest:45 - **** Finished TC_002_LoginTest  ****
