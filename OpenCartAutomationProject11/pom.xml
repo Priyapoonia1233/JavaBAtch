@@ -85,7 +85,7 @@
 
   </dependencies>
 
-  <!-- 🧩 Add this section -->
+ <!-- Added Surefire plugin for TestNG execution -->
   <build>
     <plugins>
       <plugin>
