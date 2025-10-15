@@ -28,3 +28,14 @@
 2025-10-15 11:54:10 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
 2025-10-15 11:54:10 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
 2025-10-15 11:54:12 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2025-10-15 12:08:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Priya Poonia\eclipse-workspace\OpenCartAutomationProject11\testng.xml
+
+2025-10-15 12:08:18 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-10-15 12:08:19 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2025-10-15 12:08:19 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-10-15 12:08:21 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-10-15 12:08:23 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-10-15 12:08:34 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2025-10-15 12:08:34 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2025-10-15 12:08:36 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
